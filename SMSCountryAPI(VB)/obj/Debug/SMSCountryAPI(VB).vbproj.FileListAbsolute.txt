@@ -1,0 +1,12 @@
+D:\Navneet Projects\Sugandha\SMSCountryAPI(VB)\SMSCountryAPI(VB)\obj\Debug\SMSCountryAPI_VB_.Resources.resources
+D:\Navneet Projects\Sugandha\SMSCountryAPI(VB)\SMSCountryAPI(VB)\obj\Debug\SMSCountryAPI(VB).vbproj.GenerateResource.Cache
+D:\Navneet Projects\Sugandha\SMSCountryAPI(VB)\SMSCountryAPI(VB)\bin\SMSCountryAPI(VB).dll.config
+D:\Navneet Projects\Sugandha\SMSCountryAPI(VB)\SMSCountryAPI(VB)\bin\SMSCountryAPI(VB).dll
+D:\Navneet Projects\Sugandha\SMSCountryAPI(VB)\SMSCountryAPI(VB)\bin\SMSCountryAPI(VB).pdb
+D:\Navneet Projects\Sugandha\SMSCountryAPI(VB)\SMSCountryAPI(VB)\bin\SMSCountryAPI(VB).xml
+D:\Navneet Projects\Sugandha\SMSCountryAPI(VB)\SMSCountryAPI(VB)\obj\Debug\SMSCountryAPI(VB).dll
+D:\Navneet Projects\Sugandha\SMSCountryAPI(VB)\SMSCountryAPI(VB)\obj\Debug\SMSCountryAPI(VB).xml
+D:\Navneet Projects\Sugandha\SMSCountryAPI(VB)\SMSCountryAPI(VB)\obj\Debug\SMSCountryAPI(VB).pdb
+D:\Navneet Projects\Sugandha\SMSCountryAPI(VB)\SMSCountryAPI(VB)\obj\Debug\SMSCountryAPI(VB).vbprojResolveAssemblyReference.cache
+D:\Navneet Projects\Sugandha\SMSCountryAPI(VB)\SMSCountryAPI(VB)\bin\Newtonsoft.Json.dll
+D:\Navneet Projects\Sugandha\SMSCountryAPI(VB)\SMSCountryAPI(VB)\bin\Newtonsoft.Json.xml
